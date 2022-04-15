@@ -1,4 +1,8 @@
+
+
+
 # Bunjang Clone coding Project 
+> ## [🛴라이징테스트 개발일지](https://husky-durian-e9a.notion.site/9a512c486c7d4af7b793e87408c3ea96)
 > ## [🙈 기획서](https://docs.google.com/document/d/1mJEql5gy8jLTYZXEtAzuZwmRtznI321b/edit)
 > ## [📫 API Sheet](https://docs.google.com/spreadsheets/d/1saKFspgb7g0NZVLX445RVXS27s1UKaY5/edit#gid=990061567)    
 > ## [🧩 ERD](https://aquerytool.com/aquerymain/index/?rurl=f5891c32-395a-4960-8e52-5380280e35ef&)
@@ -252,9 +256,6 @@ org.springframework.dao.IncorrectResultSizeDataAccessException: Incorrect result
  ```
 - 해결 : Req 값으로 파라미터를 메세지만 받아서 생기는 결과.. 임의로 매개변수 하나 추가 해서 테스트 결과 나오는걸로 확인
 
-<<<<<<< HEAD
-<br />
-=======
 
 <br />
 =======
@@ -266,7 +267,6 @@ org.springframework.dao.IncorrectResultSizeDataAccessException: Incorrect result
 
 ```
 - 해결 : 매핑하는 URL 잘못 기재하여 생긴 오류 , URL 수정후 정상적으로 나오는것 확인
->>>>>>> pedro
 
 
 ## 🚀 코드분석(주요 폴더및 파일로 분석)
