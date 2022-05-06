@@ -2,5 +2,5 @@
 /.gradle/
 /build/
 /build/classes/java/main/
-Secret.java
+src/main/java/com/example/demo/config/secret/Secret.java
 application.yml
